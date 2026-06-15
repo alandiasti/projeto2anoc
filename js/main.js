@@ -19,6 +19,7 @@ const alunos = [
     {nome:"Kauane", foto:"/img/Kauane.jpeg"},
     {nome:"Isabelly", foto:"/img/isabely.jpeg"},
     {nome:"Isis", foto:"/img/isis.jpeg"},
+    {nome:"Isac", foto:"/img/isaque.jpeg"},
     {nome:"João Victor", foto:"/img/JoaoV.jpeg"},
     {nome:"Luis", foto:"/img/Luis.jpg"},
     {nome:"Manoel Vitor", foto:"/img/ManoelV.jpeg"},
