@@ -27,6 +27,10 @@ const alunos = [
     {nome:"Mikaelly", foto:"/img/Mikaely.jpeg"},
     {nome:"Andrelane", foto:"/img/Andrelane.jpeg"},
     {nome:"João Inácio", foto:"/img/JoãoI.jpeg"},
+    {nome:"Douglas", foto:"/img/Douglas.jpeg"},
+    {nome:"Sarah Nauhanne", foto:"/img/SarahN.jpeg"},
+    {nome:"Talison", foto:"/img/Talison.jpeg"},
+    {nome:"Willyam", foto:"/img/Wiliam.jpeg"},
 ];
 
 const galeria = document.getElementById("galeria");
