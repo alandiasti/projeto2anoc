@@ -23,6 +23,7 @@ const alunos = [
     {nome:"João Victor", foto:"/img/JoaoV.jpeg"},
     {nome:"Luis", foto:"/img/Luis.jpg"},
     {nome:"Manoel Vitor", foto:"/img/ManoelV.jpeg"},
+    {nome:"Martins", foto:"/img/Martins.jpeg"},
     {nome:"Michael", foto:"/img/Michael.jpeg"},
     {nome:"Mikaelly", foto:"/img/Mikaely.jpeg"},
     {nome:"Andrelane", foto:"/img/Andrelane.jpeg"},
